@@ -1,4 +1,4 @@
-# Moden Java in Action
+# Modern Java in Action
 
 Study members
 
